@@ -46,7 +46,7 @@ downloads - Support partial downloads where possible
 
 # Phase 2 -- Data Layer
 
-Entities: - Streamer - Stream - Event - Group - Bookmark - Clip
+Entities: - Streamer - Stream - Event - Group (gta RP) - Bookmark - Clip
 
 Features: - Store VOD metadata - Search by UTC - Relate streamers to
 events
@@ -57,15 +57,26 @@ events
 
 Create an internal timeline model.
 
-Support: - POV switches - Split-screen - Transitions - Export to MP4
+Support: 
+- POV switches
+- Split-screen
+- Transitions
+- Export to MP4
 
-Future: - Export Premiere/Resolve timelines.
+Future:
+- Export Premiere/Resolve timelines.
 
 ------------------------------------------------------------------------
 
 # Phase 4 -- REST API
 
-Endpoints: - Events - Streams - Bookmarks - Jobs - Processing - Uploads
+Endpoints: 
+- Events
+- Streams
+- Bookmarks
+- Jobs
+- Processing
+- Uploads
 
 ------------------------------------------------------------------------
 
@@ -74,7 +85,6 @@ Endpoints: - Events - Streams - Bookmarks - Jobs - Processing - Uploads
 Views: - Dashboard - Timeline - Stream selector - Processing queue -
 Settings
 
-Keep it functional before making it attractive.
 
 ------------------------------------------------------------------------
 
@@ -87,12 +97,11 @@ Keep it functional before making it attractive.
 
 ------------------------------------------------------------------------
 
-# Phase 7 -- AI Features (Optional)
+# Phase 7 -- AI Features
 
 Possible ideas: - Highlight detection - Speaker detection - OCR -
 Automatic POV suggestions - Title generation - Thumbnail generation
 
-These are enhancements, not requirements.
 
 ------------------------------------------------------------------------
 
@@ -108,7 +117,6 @@ These are enhancements, not requirements.
 # Long-Term Goals
 
 -   Plugin system
--   Android client
 -   Desktop client
 -   Public API
 -   Multiple streaming platforms
@@ -118,6 +126,9 @@ These are enhancements, not requirements.
 
 # Definition of Success
 
-The project should: - Be useful to real creators. - Demonstrate backend
-engineering skills. - Have automated tests. - Be Docker deployable. - Be
-documented well. - Be something you actively use.
+The project should: - Be useful to real creators.
+- Demonstrate backend engineering skills.
+- Have automated tests.
+- Be Docker deployable.
+- Be documented well.
+- Be something you actively use.
